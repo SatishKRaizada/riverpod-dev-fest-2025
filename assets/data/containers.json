@@ -1,0 +1,157 @@
+[
+  {
+    "id": "1000",
+    "name": "Dry Container",
+    "type": "Dry",
+    "size": "20ft",
+    "age": "10 years",
+    "assets": "assets/images/dry-container.png",
+
+    "details": [
+      {
+        "status": "SOUND",
+        "age": "From 12 to 15 years",
+        "condition": "No damage reported.",
+        "loadability": "Yes",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      },
+      {
+        "status": "AS IS",
+        "age": "12 years and older",
+        "condition": "Structure could be damaged up to USD 250.",
+        "loadability": "It may not be in loadable condition.",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      },
+      {
+        "status": "DAMAGE",
+        "age": "Any age",
+        "condition": "Structure could be damaged up to USD 500",
+        "loadability": "It may not be in loadable condition.",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      },
+      {
+        "status": "RECYCLE",
+        "age": "Any age",
+        "condition": "Structure could be damaged above USD 500.",
+        "loadability": "It may not be in loadable condition.",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      }
+    ]
+  },
+  {
+    "id": "1001",
+    "name": "Gearbin Container",
+    "type": "Gearbin",
+    "size": "40ft",
+    "age": "8 years",
+    "assets": "assets/images/gearbin-container.png",
+    "details": [
+      {
+        "status": "RECYCLE",
+        "age": "Any age, used containers",
+        "condition": "Structure could be damaged above USD 500.",
+        "loadability": "It may not be in loadable condition.",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      },
+      {
+        "status": "AS IS",
+        "age": "12 years and older",
+        "condition": "Structure could be damaged up to USD 250.",
+        "loadability": "It may not be in loadable condition.",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      }
+    ]
+  },
+  {
+    "id": "1002",
+    "name": "Genset Clion",
+    "type": "Genset",
+    "size": "20ft",
+    "age": "5 years",
+    "assets": "assets/images/genset-clion.png",
+    "details": [
+      {
+        "status": "AS IS",
+        "age": "Any age, used containers",
+        "condition": "Structure and machinery could be damaged up to USD 3,000",
+        "loadability": "It may not be in loadable condition",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      },
+      {
+        "status": "RECYCLE",
+        "age": "Any age, used containers",
+        "condition": "Structure and machinery could be damaged above USD 3,000",
+        "loadability": "It may not be in loadable condition.",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      }
+    ]
+  },
+  {
+    "id": "1003",
+    "name": "Genset Underslug",
+    "type": "Genset",
+    "size": "20ft",
+    "age": "6 years",
+    "assets": "assets/images/genset-underslug.png",
+    "details": [
+      {
+        "status": "AS IS",
+        "age": "Any age, used gensets",
+        "condition": "Structure and machinery could be damaged",
+        "loadability": "No, some components may be missing",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      }
+    ]
+  },
+  {
+    "id": "1004",
+    "name": "Power Pack",
+    "type": "Power",
+    "size": "20ft",
+    "age": "7 years",
+    "assets": "assets/images/power-pack.png",
+    "details": [
+      {
+        "status": "AS IS",
+        "age": "Any age, used power packs",
+        "condition": "Structure and machinery could be damaged",
+        "loadability": "No, some components may be missing",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      }
+    ]
+  },
+  {
+    "id": "1005",
+    "name": "Reefer Container",
+    "type": "Reefer",
+    "size": "40ft",
+    "age": "12 years",
+    "assets": "assets/images/reefer-container.png",
+    "details": [
+      {
+        "status": "AS IS",
+        "age": "Any age, used power packs",
+        "condition": "Structure and machinery could be damaged",
+        "loadability": "No, some components may be missing",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      }
+    ]
+  },
+  {
+    "id": "1006",
+    "name": "Special Container",
+    "type": "Special",
+    "size": "40ft",
+    "age": "9 years",
+    "assets": "assets/images/special-container.png",
+    "details": [
+      {
+        "status": "AS IS",
+        "age": "Any age, used power packs",
+        "condition": "Structure and machinery could be damaged",
+        "loadability": "No, some components may be missing",
+        "description": "Dry cargo commodities - be it retail, auto or electronic parts, paper, and much more - are what we ship most of."
+      }
+    ]
+  }
+]
