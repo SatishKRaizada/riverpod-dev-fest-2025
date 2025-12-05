@@ -49,6 +49,7 @@ Each provider is implemented with real examples, such as fetching dashboard data
   - Improved ref APIs
   - Simplified provider syntax
   - Better testability and faster rebuilds
+  - Lifecycle changes also highlighted
 
 ## 🧪 Testing Riverpod Providers
 ### This project shows:
