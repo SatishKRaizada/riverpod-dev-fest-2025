@@ -118,18 +118,18 @@ This repository accompanies the following talk topics:
 Install Dependencies
 
 ```
-  flutter pub get
+flutter pub get
 ```
 
 #Run the App
 ```
-``flutter run
+flutter run
 ```
 
 ## Run Tests
 
 ```
-``flutter test
+flutter test
 ```
 
 ## 🎯 Goal of This Repo
